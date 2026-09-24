@@ -10,24 +10,16 @@ It contains refactored Jupyter Notebooks (`.ipynb`) covering all 8 chapters, com
 
 ```text
 .
-├── 01_introduction/
-│   └── 01_introduction.ipynb       # Scientific Python Stack & Iris Classification
-├── 02_supervised_learning/
-│   └── 02_supervised_learning.ipynb # Linear models, Decision Trees, Ensembles, SVMs, MLPs
-├── 03_unsupervised_learning/
-│   └── 03_unsupervised_learning.ipynb # Preprocessing, Scalers, PCA, t-SNE, Clustering
-├── 04_data_representation/
-│   └── 04_data_representation.ipynb # Categorical encoding, Binning, Polynomials, Selection
-├── 05_model_evaluation/
-│   └── 05_model_evaluation.ipynb   # Cross-Validation, GridSearch, ROC-AUC, Metrics
-├── 06_algorithm_pipelines/
-│   └── 06_algorithm_pipelines.ipynb # Leakage prevention, Scikit-Learn Pipelines
-├── 07_text_data/
-│   └── 07_text_data.ipynb          # Bag-of-Words, TF-IDF, N-Grams, Topic Modeling (NMF/LDA)
-├── 08_wrapping_up/
-│   └── 08_wrapping_up.ipynb        # Baselines, End-to-End Production Pipelines, Error Auditing
-├── requirements.txt                # Fixed dependency environment specifications
-└── README.md                       # Comprehensive repository documentation
+├── 01_introduction.ipynb            # Scientific Python Stack & Iris Classification
+├── 02_supervised_learning.ipynb     # Linear models, Decision Trees, Ensembles, SVMs, MLPs
+├── 03_unsupervised_learning.ipynb   # Preprocessing, Scalers, PCA, t-SNE, Clustering
+├── 04_data_representation.ipynb     # Categorical encoding, Binning, Polynomials, Selection
+├── 05_model_evaluation.ipynb        # Cross-Validation, GridSearch, ROC-AUC, Metrics
+├── 06_algorithm_pipelines.ipynb     # Leakage prevention, Scikit-Learn Pipelines
+├── 07_text_data.ipynb               # Bag-of-Words, TF-IDF, N-Grams, Topic Modeling (NMF/LDA)
+├── 08_wrapping_up.ipynb             # Baselines, End-to-End Production Pipelines, Error Auditing
+├── requirements.txt                 # Fixed dependency environment specifications
+└── README.md                        # Comprehensive repository documentation
 
 ```
 
