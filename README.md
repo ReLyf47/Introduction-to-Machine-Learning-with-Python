@@ -10,17 +10,16 @@ The goal of this project is to build an intuitive, practical foundation in machi
 
 ```text
 .
-├── 01_introduction/
-│   └── 01_introduction.ipynb       # Scientific Stack & Iris Classification (k-NN)
-├── 02_supervised_learning/         # Supervised algorithms, linear models, tree-based models
-├── 03_unsupervised_learning/       # Preprocessing, PCA, clustering algorithms
-├── 04_data_representation/         # Feature engineering, categorical encoding, binning
-├── 05_model_evaluation/            # Cross-validation, grid search, evaluation metrics
-├── 06_algorithm_pipelines/         # Building robust Scikit-Learn Pipelines
-├── 07_text_data/                   # Bag-of-words, TF-IDF, sentiment analysis
-├── 08_wrapping_up/                 # Final workflow review & best practices
-├── requirements.txt                # Python dependencies
-└── README.md                       # Project documentation
+├── 01_introduction.ipynb                # Scientific Stack & Iris Classification (k-NN)
+├── 02_supervised_learning.ipynb         # Supervised algorithms, linear models, tree-based models
+├── 03_unsupervised_learning.ipynb       # Preprocessing, PCA, clustering algorithms
+├── 04_data_representation.ipynb         # Feature engineering, categorical encoding, binning
+├── 05_model_evaluation.ipynb/           # Cross-validation, grid search, evaluation metrics
+├── 06_algorithm_pipelines.ipynb         # Building robust Scikit-Learn Pipelines
+├── 07_text_data                         # Bag-of-words, TF-IDF, sentiment analysis
+├── 08_wrapping_up                       # Final workflow review & best practices
+├── requirements.txt                     # Python dependencies
+└── README.md                            # Project documentation
 
 ```
 
