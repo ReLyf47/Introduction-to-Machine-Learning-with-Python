@@ -16,8 +16,8 @@ The goal of this project is to build an intuitive, practical foundation in machi
 ├── 04_data_representation.ipynb         # Feature engineering, categorical encoding, binning
 ├── 05_model_evaluation.ipynb/           # Cross-validation, grid search, evaluation metrics
 ├── 06_algorithm_pipelines.ipynb         # Building robust Scikit-Learn Pipelines
-├── 07_text_data                         # Bag-of-words, TF-IDF, sentiment analysis
-├── 08_wrapping_up                       # Final workflow review & best practices
+├── 07_text_data.ipynb                   # Bag-of-words, TF-IDF, sentiment analysis
+├── 08_wrapping_up.ipynb                 # Final workflow review & best practices
 ├── requirements.txt                     # Python dependencies
 └── README.md                            # Project documentation
 
